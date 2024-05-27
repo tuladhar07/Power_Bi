@@ -4,7 +4,7 @@ This repository contains two Power BI projects that provide comprehensive insigh
 
 ## Sales Performance Dashboard
 
-![Sales Performance Dashboard](.Sales_Project/Sales_Dashboard.png)
+![Sales Performance Dashboard](Sales_Project/Sales_Dashboard.png)
 
 The Sales Performance Dashboard offers insights into key sales metrics, such as total sales, revenue trends, top-performing products, and regional sales distribution. It allows users to interact with the data through filters and drill-down capabilities.
 
@@ -16,7 +16,7 @@ The Sales Performance Dashboard offers insights into key sales metrics, such as 
 
 ## Hospitality Dashboard
 
-![Hospitality Dashboard](.Hospitality_domain Project/Dashboard_screenshot.png)
+![Hospitality Dashboard](Hospitality_domain Project/Dashboard_screenshot.png)
 
 The Hospitality Dashboard provides insights specific to the hospitality domain, including metrics such as occupancy rates, average rating, revenue per available room (RevPAR), and average daily rate (ADR). The dashboard supports filtering by various dimensions like room type, city, and status.
 
